@@ -1,0 +1,38 @@
+{
+  "sifarishler": [
+    {
+      "id": 1,
+      "masa": "ms1",
+      "ofisant": "ali",
+      "status": "sonlanmayan",
+      "cemMebleg": 120,
+      "sonlanmatarixi": "22-07-2019 15:00:00",
+      "yemekler": [
+        {
+          "adi": "kabab",
+          "miqdari": 2,
+          "butunMebleg": 38,
+          "sifarisSaati": "15:30",
+          "status": "chatdi"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "masa": "ms1",
+      "ofisant": "ali",
+      "status": "sonlanmayan",
+      "cemMebleg": 120,
+      "sonlanmatarixi": "22-07-2019 15:00:00",
+      "yemekler": [
+        {
+          "adi": "kabab",
+          "miqdari": 2,
+          "butunMebleg": 38,
+          "sifarisSaati": "15:30",
+          "status": "chatdi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "sifarishler": [
+    {
+      "masa": "m3",
+      "ofisant": "Veli",
+      "status": "sonlanmayan",
+      "cemMebleg": 47,
+      "sonlanmatarixi": null,
+      "yemekler": [
+        {
+          "adi": "plov",
+          "miqdari": "5",
+          "butunMebleg": 10,
+          "sifarisSaati": "23:28",
+          "status": "gozlemede"
+        },
+        {
+          "adi": "doner",
+          "miqdari": "5",
+          "butunMebleg": 5,
+          "sifarisSaati": "23:28",
+          "status": "gozlemede"
+        },
+        {
+          "adi": "plov",
+          "miqdari": "5",
+          "butunMebleg": 10,
+          "sifarisSaati": "23:48",
+          "status": "gozlemede"
+        },
+        {
+          "adi": "doner",
+          "miqdari": "2",
+          "butunMebleg": 2,
+          "sifarisSaati": "00:00",
+          "status": "gozlemede"
+        },
+        {
+          "adi": "dovga",
+          "miqdari": "5",
+          "butunMebleg": 10,
+          "sifarisSaati": "00:00",
+          "status": "gozlemede"
+        },
+        {
+          "adi": "doner",
+          "miqdari": "10",
+          "butunMebleg": 10,
+          "sifarisSaati": "01:01",
+          "status": "gozlemede"
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

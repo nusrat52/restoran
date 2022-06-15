@@ -1,0 +1,152 @@
+$primary-color: red;
+
+
+
+.nav{
+  color: white;
+  text-decoration: none;
+}
+.nav +.nav{
+  cursor: pointer;
+  margin-left:30px;
+}
+.MuiTableCell-root{
+  border-bottom: 0 !important;
+}
+
+.MuiTableRow-root{
+  border-bottom: 1px solid rgb(239, 239, 239);
+}
+
+
+.mr-2{
+  margin-right: 10px !important;
+}
+
+.totalPrice{
+  display: flex;
+   align-items: center;
+}
+
+.container{
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+.bodyy{
+  min-height: calc(100vh - 100px);
+    display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.create{
+  margin-top: 20px;
+  
+}
+
+
+.create__header{
+  color: #3f51b5;
+}
+
+.create__select{
+  width: 300px;
+  margin-right: 10px;
+}
+
+.cardSp{
+  width: 100% !important; 
+max-width: 100% !important;
+}
+
+.cardSp form{
+  width: 100% !important;
+
+}
+
+.cardSp .MuiPaper-root{
+  max-width: 1000px !important;
+  width: 100% !important;
+}
+.WithFormik\(form\)-container-4 form{
+  width: 100%;
+}
+.WithFormik\(form\)-card-3{
+  margin-top: 0 !important;
+}
+.MuiPaper-elevation1{
+  box-shadow: none !important;
+
+}
+
+.WithFormik\(form\)-actions-5{
+float: left !important;
+
+}
+
+
+
+.create__selectWrapper{
+  display: flex;
+
+  width: 100%;
+}
+
+
+.mainForm{
+  display: flex;
+  flex-direction: column;
+
+}
+.mealForm{
+  justify-content: flex-start !important;
+  flex-direction: column;
+}
+
+.MuiCardActions-root{
+  float: left !important;
+}
+
+.sifarish{
+display: flex;
+flex-direction: column;
+
+
+}
+.yemekler{
+  width: max-content;
+  padding: 15px 0;
+  border-bottom: 1px solid lightgray;
+  width: 300px;
+    justify-content: space-between;
+    align-items: flex-start;
+    display: flex;
+ }
+.sifarish__text{
+  margin-top: 0;
+  margin-bottom: 0;
+   font-size: 16px;
+}
+.sifarish__text_bold{
+  font-weight: 500;
+}
+
+.mealEdit__div{
+  min-height: 105px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+@media only screen and (max-width: 1200px) {
+.container{
+width: 90%;
+}
+}
+
+@media only screen and (max-width: 800px) {
+  .container{
+  width: 95%;
+  }
+  }
